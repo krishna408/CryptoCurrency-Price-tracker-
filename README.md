@@ -1,3 +1,8 @@
+# Crypto Currency price 
+[Link](https://cocky-jones-35f321.netlify.app/)
+
+it displays current price of crypto currency with the help of [Coingeko api](https://api.coingecko.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
